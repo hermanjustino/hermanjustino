@@ -1,6 +1,6 @@
 # Herman Justino
 
-Data science master’s student building production-grade cloud and analytics systems on Google Cloud.
+Data professional building production-grade cloud and analytics systems on Google Cloud.
 
 ## What I work on
 
