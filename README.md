@@ -10,7 +10,7 @@ Data professional simplifying over-engineered systems and using cloud resources 
 
 ## Current Projects
 - Ambient Scribes: Revolutionizing clinical documentation in Ontario.
-- The Minimalist's Cloud Guide: Open-source blueprints for "right-sized" data stacks.
+- The Minimalist's Guide to the Cloud: Open-source blueprints for "right-sized" data stacks.
 
 ## Background
 - Google Cloud for Startups Founder 
