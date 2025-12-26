@@ -21,7 +21,7 @@ I’m especially interested insimplifying over-engineered systems and using clou
 ## Current focus
 
 Right now I’m building:
--Ambient Scribes in Ontario
+- Ambient Scribes in Ontario
 - cloud analytics reference architectures
 
 ---
