@@ -1,25 +1,21 @@
 # Herman Justino
 
-Data professional building production-grade cloud and analytics systems on Google Cloud.
+Data professional simplifying over-engineered systems and using cloud resources intentionally.
 
 ## What I work on
 
-Cloud-native architectures on GCP (Firestore, BigQuery, Cloud Run, IaC)
-- Terraform
-- Gemini
+- Production GCP: serverless environments using Cloud Run, Firestore, and BigQuery.
+- Infrastructure as Code: Terraform.
+- Applied AI: Gen AI workflows with Gemini and Vertex.
 
-I’m especially interested insimplifying over-engineered systems and using cloud resources intentionally.
+## Current Projects
+- Ambient Scribes: Revolutionizing clinical documentation in Ontario.
+- The Minimalist's Cloud Guide: Open-source blueprints for "right-sized" data stacks.
 
 ## Background
-
-- Master of Science Data Science  
-- Full-stack developer 
 - Google Cloud for Startups Founder 
-
-## Current focus
-
-- Ambient Scribes in Ontario
-- cloud analytics reference architectures
+- Master of Science Data Science
+- Full Stack Developer
 
 ---
 
