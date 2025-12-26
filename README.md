@@ -4,7 +4,9 @@ Data professional building production-grade cloud and analytics systems on Googl
 
 ## What I work on
 
-- Cloud-native architectures on GCP (Firestore, BigQuery, Cloud Run, IaC)
+Cloud-native architectures on GCP (Firestore, BigQuery, Cloud Run, IaC)
+- Terraform
+- Gemini
 
 I’m especially interested insimplifying over-engineered systems and using cloud resources intentionally.
 
