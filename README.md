@@ -1,6 +1,6 @@
 # Herman Justino
 
-Data professional simplifying over-engineered systems and using cloud resources intentionally.
+Simplifying over-engineered systems and using cloud resources intentionally.
 
 ## What I work on
 
